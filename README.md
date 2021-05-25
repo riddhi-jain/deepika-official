@@ -1,2 +1,2 @@
 # deepika-official
-A try to create webpage of the famous bollywood actress, Deepika Padukone.
+Cloning the webpage of the famous bollywood actress, Deepika Padukone. ( as per in June 2019)
